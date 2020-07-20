@@ -5,3 +5,4 @@ welcome to kitchen
 
 rice
 pasta
+chicken Fry
